@@ -3,6 +3,7 @@
 
 [![Antoine-lb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antoine-lb)](https://github.com/Antoine-lb/github-readme-stats)
 
+[![Antoine-lb's github stats](https://github-readme-stats.vercel.app/api?username=Antoine-lb&theme=blue-green)](https://github.com/Antoine-lb/github-readme-stats)
 <!--
 **Antoine-lb/Antoine-lb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
